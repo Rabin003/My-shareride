@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RideBuddy</string>
+
+    <!-- Strings related to login -->
+    <string name="get_started">get started</string>
+    <string name="successfull">Signed in successfully</string>
+    <string name="failed">Sign in failed</string>
+    <string name="please_continue">Please Sign in to continue</string>
+    <string name="title_activity_book_ride">Map</string>
+</resources>
